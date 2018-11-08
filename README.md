@@ -18,7 +18,7 @@ Each training and test example is assigned to one of the following labels:
 9 Ankle boot 
 
 ## Prerequisites
-* Keras 2.2.0 with tensorflow background.
+* Keras 2.2.0 with tensorflow backend.
 
 ## Acknowledgement
 * Original dataset was downloaded from https://github.com/zalandoresearch/fashion-mnist
